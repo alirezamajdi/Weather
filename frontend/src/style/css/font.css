@@ -1,0 +1,105 @@
+@font-face {
+  font-family: Rey;
+  font-style: normal;
+  font-display: fallback;
+  /* Rey */
+  src: url('../fonts/Rey/Ray-Black.eot');
+  src: url('../fonts/Rey/Ray-Black.otf');
+  src: url('../fonts/Rey/Ray-Black.ttf');
+  src: url('../fonts/Rey/Ray-Black.woff');
+  src: url('../fonts/Rey/Ray-Bold.eot');
+  src: url('../fonts/Rey/Ray-Bold.otf');
+  src: url('../fonts/Rey/Ray-Bold.ttf');
+  src: url('../fonts/Rey/Ray-Bold.woff');
+  src: url('../fonts/Rey/Ray-ExtraBlack.eot');
+  src: url('../fonts/Rey/Ray-ExtraBlack.otf');
+  src: url('../fonts/Rey/Ray-ExtraBlack.ttf');
+  src: url('../fonts/Rey/Ray-ExtraBlack.woff');
+  src: url('../fonts/Rey/Ray-ExtraBold.eot');
+  src: url('../fonts/Rey/Ray-ExtraBold.otf');
+  src: url('../fonts/Rey/Ray-ExtraBold.ttf');
+  src: url('../fonts/Rey/Ray-ExtraBold.woff');
+  src: url('../fonts/Rey/Ray-Light.eot');
+  src: url('../fonts/Rey/Ray-Light.otf');
+  src: url('../fonts/Rey/Ray-Light.ttf');
+  src: url('../fonts/Rey/Ray-Light.woff');
+  src: url('../fonts/Rey/Ray-Medium.eot');
+  src: url('../fonts/Rey/Ray-Medium.otf');
+  src: url('../fonts/Rey/Ray-Medium.ttf');
+  src: url('../fonts/Rey/Ray-Medium.woff');
+  src: url('../fonts/Rey/Ray.eot');
+  src: url('../fonts/Rey/Ray.otf');
+  src: url('../fonts/Rey/Ray.ttf');
+  src: url('../fonts/Rey/Ray.woff');
+}
+@font-face {
+  font-family: YekanBakh;
+  font-style: normal;
+  font-display: fallback;
+  src: url('../fonts/YekanBakh/Fa/Hairline.eot');
+  src: url('../fonts/YekanBakh/Fa/Hairline.ttf');
+  src: url('../fonts/YekanBakh/Fa/Hairline.woff');
+  src: url('../fonts/YekanBakh/Fa/Thin.eot');
+  src: url('../fonts/YekanBakh/Fa/Thin.ttf');
+  src: url('../fonts/YekanBakh/Fa/Thin.woff');
+  src: url('../fonts/YekanBakh/Fa/Light.eot');
+  src: url('../fonts/YekanBakh/Fa/Light.ttf');
+  src: url('../fonts/YekanBakh/Fa/Light.woff');
+  src: url('../fonts/YekanBakh/Fa/Regular.eot');
+  src: url('../fonts/YekanBakh/Fa/Regular.ttf');
+  src: url('../fonts/YekanBakh/Fa/Regular.woff');
+  src: url('../fonts/YekanBakh/Fa/Medium.eot');
+  src: url('../fonts/YekanBakh/Fa/Medium.ttf');
+  src: url('../fonts/YekanBakh/Fa/Medium.woff');
+  src: url('../fonts/YekanBakh/Fa/Heavy.eot');
+  src: url('../fonts/YekanBakh/Fa/Heavy.ttf');
+  src: url('../fonts/YekanBakh/Fa/Heavy.woff');
+  src: url('../fonts/YekanBakh/FaNum/Hairline.eot');
+  src: url('../fonts/YekanBakh/FaNum/Hairline.ttf');
+  src: url('../fonts/YekanBakh/FaNum/Hairline.woff');
+  src: url('../fonts/YekanBakh/FaNum/Thin.eot');
+  src: url('../fonts/YekanBakh/FaNum/Thin.ttf');
+  src: url('../fonts/YekanBakh/FaNum/Thin.woff');
+  src: url('../fonts/YekanBakh/FaNum/Light.eot');
+  src: url('../fonts/YekanBakh/FaNum/Light.ttf');
+  src: url('../fonts/YekanBakh/FaNum/Light.woff');
+  src: url('../fonts/YekanBakh/FaNum/Regular.eot');
+  src: url('../fonts/YekanBakh/FaNum/Regular.ttf');
+  src: url('../fonts/YekanBakh/FaNum/Regular.woff');
+  src: url('../fonts/YekanBakh/FaNum/Medium.eot');
+  src: url('../fonts/YekanBakh/FaNum/Medium.ttf');
+  src: url('../fonts/YekanBakh/FaNum/Medium.woff');
+}
+.font-Rey {
+  font-family: Rey !important;
+}
+.font-Yekan {
+  font-family: YekanBakh !important;
+}
+@media (max-width: 576px) {
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .pr-sm-15 {
+    padding-right: 15px !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .pr-sm-15 {
+    padding-right: 15px !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .pr-sm-15 {
+    padding-right: 15px !important;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1650px) {
+  .pr-sm-15 {
+    padding-right: 15px !important;
+  }
+}
+@media (min-width: 1200px) {
+  .pr-sm-15 {
+    padding-right: 15px !important;
+  }
+}
